@@ -1,0 +1,1 @@
+export const MYFEATURL = 'http://localhost:8001';
